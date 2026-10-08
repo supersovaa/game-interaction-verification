@@ -9,17 +9,17 @@ Use this skill when deciding whether multiple game rules or effects can legally 
 
 ## Establish authoritative inputs
 
-Read the applicable rule canon and exact effect texts before deriving a result. Use the repository's adopted rule and card sources when they exist. Identify the source for each material condition; distinguish stated rules from assumptions. Treat an unresolved material rule or missing effect text as an unresolved conclusion.
+Read the applicable rules and exact effect texts before deriving a result. Use the repository's adopted rule and card sources when they exist. Identify the source for each material condition; distinguish stated rules from assumptions. Treat an unresolved material rule or missing effect text as an unresolved conclusion.
 
 ## Bind the players and effects
 
-Name the players A and B. For each effect, identify its user or trigger source, its controller where relevant, the turn player, the objects it can affect, its activation or trigger timing, its resolution, and its expiration.
+Assign stable identifiers to the relevant players (A, B, C, etc.). For each effect, identify its user or trigger source, its controller where relevant, the turn player, the objects it can affect, its activation or trigger timing, its resolution, and its expiration.
 
 Interpret words such as "you", "your", and "opponent" relative to the appropriate effect or game rule, rather than to the player described first. Distinguish who uses an effect from who controls a card and whose turn is in progress. Distinguish effects that players use from effects that trigger automatically.
 
 ## Cover relevant role assignments
 
-For two-player games, start by crossing who uses or controls the effect (A or B) with whose turn it is (A or B). Examine the resulting four role/turn cases when all are relevant, including effects used in response during the other player's turn.
+For two-player games, start by crossing who uses or controls the effect (A or B) with whose turn it is (A or B). Examine the resulting four role/turn cases when all are relevant, including effects used in response during the other player's turn. For games with more players, extend these role and turn assignments to the players relevant to the interaction.
 
 For interactions involving more than one effect, also vary the assignments and ordering that can change their compatibility. Consolidate cases only when the rules establish that they are equivalent, or when a case is demonstrably illegal; record the reason.
 
