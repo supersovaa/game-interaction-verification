@@ -1,6 +1,6 @@
 ---
 name: game-interaction-verification
-description: Verify whether multiple game rules or effects can interact by tracing player roles, turn ownership, legal timing, targets, duration, and reachable state transitions.
+description: Check whether game rules or effects can legally produce a stated outcome. Trace player roles, turns, timing, targets, duration, and reachable states.
 ---
 
 # Game Interaction Verification
@@ -9,7 +9,9 @@ Use this skill when deciding whether multiple game rules or effects can legally 
 
 ## Establish authoritative inputs
 
-Read the applicable rules and exact effect texts before deriving a result. Use the repository's adopted rule and card sources when they exist. Identify the source for each material condition; distinguish stated rules from assumptions. Treat an unresolved material rule or missing effect text as an unresolved conclusion.
+Read the applicable rules and exact effect texts before deriving a result. Use the repository’s adopted rule and card sources where available.
+
+Identify the source of each material condition and distinguish rules from assumptions. If a material rule is unresolved or an effect text is missing, leave the conclusion unresolved.
 
 ## Bind the players and effects
 
