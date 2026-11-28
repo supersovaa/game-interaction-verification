@@ -1,6 +1,6 @@
 ---
 name: game-interaction-verification
-description: Check whether game rules or effects can legally produce a stated outcome. Trace player roles, turns, timing, targets, duration, and reachable states.
+description: Use only when checking whether multiple game rules or effects can interact to legally produce a stated outcome. Trace player roles, turns, timing, targets, duration, and reachable states.
 ---
 
 # Game Interaction Verification
